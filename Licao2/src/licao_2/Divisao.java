@@ -1,7 +1,7 @@
-package Licao2;
+package licao_2;
 import java.util.Scanner;
 public class Divisao {
-	
+
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
 		System.out.println("Digite o primeiro número");
@@ -18,5 +18,5 @@ public class Divisao {
 		
 		System.out.println("O valor da divisão do primeiro pelo segundo é "+divisao);
 	}
-	
+
 }
